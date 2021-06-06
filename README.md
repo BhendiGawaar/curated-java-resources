@@ -2,7 +2,7 @@
 
 A [curated and annotated list of resources][resources] for learning Java programming.
 
-  [resources]: https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
+  [resources]: https://github.com/BhendiGawaar/curated-java-resources/blob/master/resources.md
 
 ## Motivation and goals
 
