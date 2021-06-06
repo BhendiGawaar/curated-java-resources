@@ -13,7 +13,7 @@
         The official Java tutorial, produced by Oracle. Tends to focus on language features and syntax. 
      
 - Exercises: 
-    - [Hacker Rank][hacker-rank]
+    - [Hacker Rank][hacker-rank]    
     Exercises arranged with topics and level of difficulty    
     - [Practice-it][java-practice-it]  
     A series of exercises hosted by the University of Washington, starting with basic Java and finishing with data structures and algorithms. Requires (free) registration first before you can view or work on the exercises.
